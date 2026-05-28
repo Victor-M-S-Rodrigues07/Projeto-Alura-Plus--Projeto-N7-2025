@@ -79,6 +79,9 @@ README.md
 
 <div align = "center">
 
+<img src = ".\imgs\foto-readme.png" alt = "Imagem do site" height = "600">
+<br>
+
 <img src = ".\imgs\README-imagem-1.png" alt = "Imagem do site em uma seção" height = "500"> 
 <br>
 
