@@ -1,7 +1,7 @@
 # <h1 align = "center"> Alura Plus - Alura + Alura Língua com o Combo+ </h1>
 
 <div align = "center">
-<img src = ".\imagens\foto-readme.png" alt = "Imagem do site" height = "600">
+<img src = ".\imgs\foto-readme.png" alt = "Imagem do site" height = "600">
 </div>
 
 ### Status do Projeto: Concluído ✔
@@ -79,10 +79,10 @@ README.md
 
 <div align = "center">
 
-<img src = ".\imagens\README-imagem-1.png" alt = "Imagem do site em uma seção" height = "500"> 
+<img src = ".\imgs\README-imagem-1.png" alt = "Imagem do site em uma seção" height = "500"> 
 <br>
 
-<img src = ".\imagens\README-imagem-2.png" alt = "Imagem do site no footer mostrando os direitos autoriais e outras informações ao usuário" height = "500">
+<img src = ".\imgs\README-imagem-2.png" alt = "Imagem do site no footer mostrando os direitos autoriais e outras informações ao usuário" height = "500">
 <br>
 
 </div>
