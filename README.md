@@ -8,16 +8,16 @@
 
 ## 🗂 Sumário
 
-- [📝 Descrição do Projeto](https://github.com/Victor-M-S-Rodrigues07/Projeto-Site-de-Apresentacao-Mobile--Projeto-N6-2025#-descri%C3%A7%C3%A3o-do-projeto)
-- [💻 Acesso ao Projeto](https://github.com/Victor-M-S-Rodrigues07/Projeto-Site-de-Apresentacao-Mobile--Projeto-N6-2025#-acesso-ao-site)
-- [🎯 Objetivos do Curso](https://github.com/Victor-M-S-Rodrigues07/Projeto-Site-de-Apresentacao-Mobile--Projeto-N6-2025#-objetivos-do-curso)
-- [⏲ Versão Anterior do Projeto](https://github.com/Victor-M-S-Rodrigues07/Projeto-Site-de-Apresentacao-Mobile--Projeto-N6-2025#-vers%C3%A3o-anterior-do-projeto)
-- [🔗 Protótipo do Projeto no Figma](https://github.com/Victor-M-S-Rodrigues07/Projeto-Site-de-Apresentacao-Mobile--Projeto-N6-2025#-prot%C3%B3tipo-do-projeto-no-figma)
-- [💻 Tecnologias Utilizadas](https://github.com/Victor-M-S-Rodrigues07/Projeto-Site-de-Apresentacao-Mobile--Projeto-N6-2025#-tecnologias-utilizadas)
-- [⚙ Funcionalidades e Inovações](https://github.com/Victor-M-S-Rodrigues07/Projeto-Site-de-Apresentacao-Mobile--Projeto-N6-2025#-funcionalidades-e-inova%C3%A7%C3%B5es)
-- [📂 Estrutura do Projeto](https://github.com/Victor-M-S-Rodrigues07/Projeto-Site-de-Apresentacao-Mobile--Projeto-N6-2025#-estrutura-do-projeto)
-- [📷 Imagens do Projeto](https://github.com/Victor-M-S-Rodrigues07/Projeto-Site-de-Apresentacao-Mobile--Projeto-N6-2025#-imagens-do-projeto)
-- [✨Créditos](https://github.com/Victor-M-S-Rodrigues07/Projeto-Site-de-Apresentacao-Mobile--Projeto-N6-2025#-cr%C3%A9ditos)
+- [📝 Descrição do Projeto](https://github.com/Victor-M-S-Rodrigues07/Projeto-Alura-Plus--Projeto-N1-2026#-descri%C3%A7%C3%A3o-do-projeto)
+- [💻 Acesso ao Projeto](https://github.com/Victor-M-S-Rodrigues07/Projeto-Alura-Plus--Projeto-N1-2026#-acesso-ao-site)
+- [🎯 Objetivos do Curso](https://github.com/Victor-M-S-Rodrigues07/Projeto-Alura-Plus--Projeto-N1-2026#-objetivos-do-curso)
+- [🔗 Protótipo do Projeto no Figma](https://github.com/Victor-M-S-Rodrigues07/Projeto-Alura-Plus--Projeto-N1-2026#-prot%C3%B3tipo-do-projeto-no-figma)
+- [💻 Tecnologias Utilizadas](https://github.com/Victor-M-S-Rodrigues07/Projeto-Alura-Plus--Projeto-N1-2026#-tecnologias-utilizadas)
+- [⚙ Funcionalidades e Inovações do Projeto](https://github.com/Victor-M-S-Rodrigues07/Projeto-Alura-Plus--Projeto-N1-2026#-funcionalidades-e-inova%C3%A7%C3%B5es-do-projeto)
+- [📂 Estrutura do Projeto](https://github.com/Victor-M-S-Rodrigues07/Projeto-Alura-Plus--Projeto-N1-2026#-estrutura-do-projeto)
+- [📷 Imagens do Projeto](https://github.com/Victor-M-S-Rodrigues07/Projeto-Alura-Plus--Projeto-N1-2026#-imagens-do-projeto)
+- [✨Autor](https://github.com/Victor-M-S-Rodrigues07/Projeto-Alura-Plus--Projeto-N1-2026#-autor)
+- [☎ Contatos](https://github.com/Victor-M-S-Rodrigues07/Projeto-Alura-Plus--Projeto-N1-2026#-contatos)
 
 ## 📝 Descrição do Projeto
 
