@@ -25,7 +25,7 @@ O presente projeto foi criado para a realização do curso *HTML e CSS: Pratican
 
 O Alura+ é um site promocional que mostra as informações a respeito do combo+, uma oferta onde o cliente pode adquirir o acesso à plataforma Alura+, com vídeos extras dos conteúdos de programação, junto com os cursos da Alura Língua (com foco no estudo de inglês e espanhol) por um preço menor, comum em práticas de mercado para atrair clientes e garantir vendas. <br>
 
-Esse site é uma representação prática de empresas comerciais do mercado de trabalho, criado para praticar os conheciemtnos em aplicações web e programação. Ele contém ao todo 4 (quatro) seções ilustrativas com imagens e informações a respeito do combo, e um footer com links e descrições de copyright abaixo, abrangendo todo o conteúdo de HTML e CSS aprendidos ao longo da formação HTML e CSS da Alura. <br>
+Esse site é uma representação prática de empresas comerciais do mercado de trabalho, criado para praticar os conhecimentos em aplicações web e programação. Ele contém ao todo 4 (quatro) seções ilustrativas com imagens e informações a respeito do combo, e um footer com links e descrições de copyright abaixo, abrangendo todo o conteúdo de HTML e CSS aprendidos ao longo da formação HTML e CSS da Alura. <br>
 
 ## 💻 Acesso ao Site
 
